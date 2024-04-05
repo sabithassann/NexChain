@@ -31,7 +31,6 @@
 ![ Dashboard page](https://github.com/sabithassann/NexChain/blob/main/nexchain_screenshot/warestatus_14.png)
 :pushpin: Dashboard:
 ![ Dashboard page](https://github.com/sabithassann/NexChain/blob/main/nexchain_screenshot/scan_mobile_app_15.jpg)
-| Scanner | :pushpin: Start up:![ start up](https://github.com/sabithassann/NexChain/blob/main/nexchain_screenshot/warestatus_14.png) | :pushpin: Splash screen:![ start up](https://github.com/sabithassann/NexChain/blob/main/nexchain_screenshot/scan_mobile_app_15.jpg) |
 :pushpin: Dashboard:
 ![ Dashboard page](https://github.com/sabithassann/NexChain/blob/main/nexchain_screenshot/warestatus_pending_15.png)
 :pushpin: Dashboard:
