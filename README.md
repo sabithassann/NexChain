@@ -1,2 +1,2 @@
 # NexChain
- Supply Chain and Logistic System
+ Supply Chain and Logistic System Using Springboot
