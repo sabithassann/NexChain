@@ -53,38 +53,38 @@ Implemented a comprehensive supply chain and logistic system using Spring Boot, 
  
 :pushpin: RawMaterials:
 ![ Dashboard page](https://github.com/sabithassann/NexChain/blob/main/nexchain_screenshot/rawmaterial_1.png)
-:pushpin: Dashboard:
+:pushpin: Supplier:
 ![ Dashboard page](https://github.com/sabithassann/NexChain/blob/main/nexchain_screenshot/supplier_2.png)
-:pushpin: Dashboard:
+:pushpin: Procurement:
 ![ Dashboard page](https://github.com/sabithassann/NexChain/blob/main/nexchain_screenshot/procurement_3.png)
-:pushpin: Dashboard:
+:pushpin: Payment:
 ![ Dashboard page](https://github.com/sabithassann/NexChain/blob/main/nexchain_screenshot/payment_4.png)
-:pushpin: Dashboard:
+:pushpin: Inventory:
 ![ Dashboard page](https://github.com/sabithassann/NexChain/blob/main/nexchain_screenshot/save_inventory_5.png)
-:pushpin: Dashboard:
+:pushpin: Inventory List:
 ![ Dashboard page](https://github.com/sabithassann/NexChain/blob/main/nexchain_screenshot/inventoryList_6.png)
-:pushpin: Dashboard:
+:pushpin: Invetory Details by Date:
 ![ Dashboard page](https://github.com/sabithassann/NexChain/blob/main/nexchain_screenshot/fetch_inventory_by_date_7.png)
-:pushpin: Dashboard:
+:pushpin: Product:
 ![ Dashboard page](https://github.com/sabithassann/NexChain/blob/main/nexchain_screenshot/all_product_8.png)
-:pushpin: Dashboard:
+:pushpin: Production Product:
 ![ Dashboard page](https://github.com/sabithassann/NexChain/blob/main/nexchain_screenshot/add_product_for_production_9.png)
-:pushpin: Dashboard:
+:pushpin: Creating Recipe:
 ![ Dashboard page](https://github.com/sabithassann/NexChain/blob/main/nexchain_screenshot/recipe_10.png)
-:pushpin: Dashboard:
+:pushpin: Production:
 ![ Dashboard page](https://github.com/sabithassann/NexChain/blob/main/nexchain_screenshot/in_production_11.png)
-:pushpin: Dashboard:
+:pushpin: New Messege will show for Last 3 days Production Product:
 ![ Dashboard page](https://github.com/sabithassann/NexChain/blob/main/nexchain_screenshot/last_three_days_product_12.png)
-:pushpin: Dashboard:
+:pushpin: Ware House:
 ![ Dashboard page](https://github.com/sabithassann/NexChain/blob/main/nexchain_screenshot/warehouse_move_13.png)
-:pushpin: Dashboard:
+:pushpin: Ware House Status:
 ![ Dashboard page](https://github.com/sabithassann/NexChain/blob/main/nexchain_screenshot/warestatus_14.png)
-:pushpin: Dashboard:
+:pushpin: Scan by NexChain Flutter App:
 ![ Dashboard page](https://github.com/sabithassann/NexChain/blob/main/nexchain_screenshot/scan_mobile_app_15.jpg)
-:pushpin: Dashboard:
+:pushpin: Pending Status:
 ![ Dashboard page](https://github.com/sabithassann/NexChain/blob/main/nexchain_screenshot/warestatus_pending_15.png)
-:pushpin: Dashboard:
+:pushpin: Approved:
 ![ Dashboard page](https://github.com/sabithassann/NexChain/blob/main/nexchain_screenshot/status_updated_16.png)
-:pushpin: Dashboard:
+:pushpin: Approved:
 ![ Dashboard page](https://github.com/sabithassann/NexChain/blob/main/nexchain_screenshot/approved_status_17.png)
 
