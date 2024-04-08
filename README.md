@@ -73,6 +73,8 @@ Implemented a comprehensive supply chain and logistic system using Spring Boot, 
 ![ Dashboard page](https://github.com/sabithassann/NexChain/blob/main/nexchain_screenshot/recipe_10.png)
 :pushpin: Production:
 ![ Dashboard page](https://github.com/sabithassann/NexChain/blob/main/nexchain_screenshot/in_production_11.png)
+:pushpin: Stock RawMaterial Updated Based on Production:
+![ Dashboard page](https://github.com/sabithassann/NexChain/blob/main/nexchain_screenshot/stock_9.png)
 :pushpin: New Messege will show for Last 3 days Production Product:
 ![ Dashboard page](https://github.com/sabithassann/NexChain/blob/main/nexchain_screenshot/last_three_days_product_12.png)
 :pushpin: Ware House:
